@@ -17,7 +17,7 @@
 4. 브랜치 만들고, 전환까지 동시에 하기
     - `git checkout -b 브랜치명`
 
-# refernce
+#### refernce
 
 00. 브랜치 삭제하기
     - `git brnach -d 브랜치명`
