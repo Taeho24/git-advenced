@@ -34,6 +34,3 @@
 ### git reset
 - `git reset`을 사용하면 현재 체크아웃한 브랜치의 원하는 과거 커밋으로 HEAD를 이동시키고, 그 이후의 커밋들은 모두 버릴 수 있습니다. 원치 않는 커밋을 되돌릴 때 유용한 명령어 입니다.
 - [참고자료](https://violet-bora-lee.github.io/git-tutorial/#reset)
-
-
-dvgevsevbsgbesv
